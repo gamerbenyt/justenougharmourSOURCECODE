@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="just_enough_armour"
+version="1.0.0"
+displayName="Just Enough Armour"
+displayURL="https://youtube.com/@gamerbenyt"
+logoFile="logo.png"
+credits="Developer - Gamer Ben Armour Art Designer - Gamer Be Modeler - Gamer Ben Software - Blockbench, Opera GX, Windows, VS Code"
+authors="Gamer Ben"
+description="Adds Armour No One Asked For! (except me!)"
+
+[[dependencies.just_enough_armour]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
